@@ -1,6 +1,5 @@
 ---
 title: "About"
-draft: true
 ---
 
 Hello there, my name is Jesstern. I'm a software developer.
